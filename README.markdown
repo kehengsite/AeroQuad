@@ -1,8 +1,18 @@
+Note on software maintenance
+============================
+
+AeroQuad software is not maintained actively anymore!
+-----------------------------------------------------
+
+The Aeroquad 32 bit boards are supported by other more active flight softwares like dRonin (http://dronin.org/).
+
+
+
 AeroQuad Flight Software Source Code v3.2
 ========================================
 [http://www.AeroQuad.com](http://www.AeroQuad.com)
 
-Version 3.2 Release Notes (1/27/2012)
+Version 3.2 Release Notes (1/27/2013)
 ----------------------------------------
 * Unified release with Configurator for official support of AQ32 Flight Control Board
 
